@@ -1,2 +1,2 @@
-# web_solana
+# web3_solana
 Solana Blockchain
