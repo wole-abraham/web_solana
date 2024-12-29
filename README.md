@@ -1,2 +1,2 @@
 # web3_solana
-Solana Blockchain
+Solana Blockchain Projects
